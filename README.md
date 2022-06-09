@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://flogertbardhi.com/?brizy_media=wp-ee77528238c4e20c3e78d93d0c0e0116.png&brizy_crop=iW%3D1170%26iH%3D327%26oX%3D0%26oY%3D43%26cW%3D1170%26cH%3D242">
+<img align="center" alt="Coding" width="800" src="https://flogertbardhi.com/?brizy_media=wp-ee77528238c4e20c3e78d93d0c0e0116.png&brizy_crop=iW%3D1170%26iH%3D327%26oX%3D0%26oY%3D43%26cW%3D1170%26cH%3D242">
