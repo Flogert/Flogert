@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
-![snake gif](https://github.com/Flogert/Flogert/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake svg](https://github.com/Flogert/Flogert/blob/output/github-contribution-grid-snake.svg)
+
