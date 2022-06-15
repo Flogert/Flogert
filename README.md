@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![align="center"](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flogert&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flogert&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flogert&theme=solarized_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Flogert&theme=solarized_dark)
 
